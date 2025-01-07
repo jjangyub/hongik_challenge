@@ -160,6 +160,5 @@
 ---
 
 ### 프로젝트 시연 영상
-[스마트 물류 시스템_시연.zip](https://github.com/user-attachments/files/18330796/_.zip)
-
+<img src='images/스마트 물류 시스템_시연.gif'>
 
